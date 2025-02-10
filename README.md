@@ -33,6 +33,8 @@ To run this project locally, follow these steps:
 Clone the repository
 
 git clone https://github.com/thebackbencher666/video_game_selling_prediction.git
+
+
 cd your-repository
 
 Install dependencies
